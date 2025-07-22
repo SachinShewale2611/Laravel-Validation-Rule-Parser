@@ -1,9 +1,5 @@
 # Laravel Validation Rule Parser
 
-[![Latest Version](https://img.shields.io/github/release/SachinShewale2611/Laravel-Validation-Rule-Parser.svg?style=flat-square)](https://github.com/SachinShewale2611/Laravel-Validation-Rule-Parser/releases)
-[![License](https://img.shields.io/github/license/SachinShewale2611/Laravel-Validation-Rule-Parser.svg?style=flat-square)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/SachinShewale2611/Laravel-Validation-Rule-Parser.svg?style=flat-square)](https://github.com/SachinShewale2611/Laravel-Validation-Rule-Parser/issues)
-
 A powerful Laravel package that automatically parses your backend validation rules and seamlessly shares them with your Vue.js frontend for real-time Zod validation. Keep your validation logic centralized in Laravel while providing instant feedback to users.
 
 ## ✨ Features
@@ -354,33 +350,12 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Laravel](https://laravel.com/) - The PHP framework
 - [Inertia.js](https://inertiajs.com/) - Modern monolith approach
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript framework
 - [Zod](https://zod.dev/) - TypeScript-first schema validation
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/SachinShewale2611/Laravel-Validation-Rule-Parser/issues) page
-2. Create a new issue with detailed information
-3. Join our discussions in the repository
-
-## 🚧 Roadmap
-
-- [ ] Support for more Laravel validation rules
-- [ ] Custom error message mapping
-- [ ] Multiple language support
-- [ ] React.js support
-- [ ] Standalone npm package
-- [ ] CLI tool for setup automation
 
 ---
 
